@@ -9,7 +9,7 @@
 
 ## Me : 
 
-I am a student in industrial engineering, specializing in software. I am passionate about the world of technology and software development. My academic background has allowed me to develop a strong understanding of industrial engineering concepts, but it is in the field of artificial intelligence that I find my true passion.
+As a driven and passionate computer science student at ECAM. I am passionate about the world of technology and software development. My academic background has allowed me to develop a strong understanding of industrial engineering concepts, but it is in the field of artificial intelligence that I find my true passion.
 
 My keen interest in software development, with a particular focus on artificial intelligence, has led me to explore various aspects of this ever-evolving field. I am fascinated by areas such as Machine Learning, which opens the door to systems capable of learning and improving autonomously. Deep Learning, with its deep neural networks, excites me for their ability to tackle complex problems and surpass the limits of artificial perception. Additionally, natural language processing (NLP) captivates me as it enables machines to understand and communicate with humans in a more natural and fluid manner.
 

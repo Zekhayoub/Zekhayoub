@@ -15,7 +15,7 @@ My keen interest in software development, with a particular focus on artificial 
 
 ## Favorite project : 
 
-
+- [Tower Defense](https://github.com/Zekhayoub/TowerDefense): Creation of a video game
 
 ## Languages and Tools :
 
@@ -25,8 +25,4 @@ My keen interest in software development, with a particular focus on artificial 
 ## More information :
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekhayoub&show_icons=true&locale=en" alt="zekhayoub" /></p>
 
-## Connect with me: 
 
-<p align="left">
-<a href=" https://www.linkedin.com/in/ayoub-zekhnini-862025287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-</p>

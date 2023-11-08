@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="77.png" width="900" height="350">
+  <img src="77.png" width="800" height="350">
 </p>
 
 <h1 align="center">Hi 👋, I'm Zekhnini Ayoub</h1>

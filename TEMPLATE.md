@@ -30,12 +30,12 @@ My keen interest in software development, with a particular focus on artificial 
 
 
 ## More information :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekhayoub&show_icons=true&locale=en" alt="zekhayoub" /></p>
-{{ ACCOUNT_AGE }}
-{{ COMMITS }}
-{{ REPOSITORIES }}
+I've been a GitHub user for {{ ACCOUNT_AGE }} years and have made {{ COMMITS }} commits to {{ REPOSITORIES }} repositories during that time.
 
 {{ LANGUAGE_TEMPLATE_START:max=4 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekhayoub&show_icons=true&locale=en" alt="zekhayoub" /></p>
+
 

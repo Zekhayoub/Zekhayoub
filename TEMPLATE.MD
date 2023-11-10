@@ -6,7 +6,7 @@
 <h3 align="center">A passionate software engineering student from Belgium</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+ 
 ## Me : 
 
 As a driven and passionate computer science student at ECAM. I am passionate about the world of technology and software development. My academic background has allowed me to develop a strong understanding of industrial engineering concepts, but it is in the field of artificial intelligence that I find my true passion.

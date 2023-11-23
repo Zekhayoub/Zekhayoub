@@ -30,12 +30,12 @@ My keen interest in software development, with a particular focus on artificial 
 
 
 ## More information :
-I've been a GitHub user for 0 years and have made 118 commits to 13 repositories during that time.
+I've been a GitHub user for 0 years and have made 122 commits to 15 repositories during that time.
 
-![Java](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B195.2%25)
-![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13.1%25)
+![Java](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B193.4%25)
+![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B13%25)
 ![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.5%25)
-![CSS](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B10%25)
+![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.9%25)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekhayoub&show_icons=true&locale=en" alt="zekhayoub" /></p>
 

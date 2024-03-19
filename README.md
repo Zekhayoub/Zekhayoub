@@ -30,7 +30,7 @@ My keen interest in software development, with a particular focus on artificial 
 
 
 ## More information :
-I've been a GitHub user for 1 years and have made 223 commits to 23 repositories during that time.
+I've been a GitHub user for 1 years and have made 224 commits to 23 repositories during that time.
 
 ![Java](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B185.5%25)
 ![C#](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B15.9%25)

@@ -30,12 +30,12 @@ My keen interest in software development, with a particular focus on artificial 
 
 
 ## More information :
-I've been a GitHub user for 1 years and have made 278 commits to 24 repositories during that time.
+I've been a GitHub user for 1 years and have made 280 commits to 24 repositories during that time.
 
-![Java](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B145.5%25)
-![Jupyter Notebook](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B140.8%25)
-![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B16.6%25)
-![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.9%25)
+![Java](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B145.2%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B140.6%25)
+![Python](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B17.2%25)
+![Other](https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B16.8%25)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekhayoub&show_icons=true&locale=en" alt="zekhayoub" /></p>
 

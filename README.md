@@ -40,3 +40,8 @@ I've been a GitHub user for 1 years and have made 280 commits to 24 repositories
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekhayoub&show_icons=true&locale=en" alt="zekhayoub" /></p>
 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zekhayoub&show_icons=true&theme=transparent&hide_border=true&title_color=3572A5&count_private=true&include_all_commits=true" alt="Ayoub's GitHub Stats" />
+</p>
+
+

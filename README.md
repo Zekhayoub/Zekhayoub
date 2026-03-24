@@ -1,33 +1,72 @@
-<p align="center">
-  <img src="77.png" width="850" height="350">
-</p>
 
-<h1 align="center">Hi 👋, I'm Ayoub Zekhnini</h1>
-<h3 align="center">A passionate software engineering student from Belgium</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
- 
-## Me : 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Ayoub%20Zekhnini&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-As a driven and passionate computer science student at ECAM. I am passionate about the world of technology and software development. My academic background has allowed me to develop a strong understanding of industrial engineering concepts, but it is in the field of artificial intelligence that I find my true passion.
+</div>
 
-My keen interest in software development, with a particular focus on artificial intelligence, has led me to explore various aspects of this ever-evolving field. I am fascinated by areas such as Machine Learning, which opens the door to systems capable of learning and improving autonomously. Deep Learning, with its deep neural networks, excites me for their ability to tackle complex problems and surpass the limits of artificial perception. Additionally, natural language processing (NLP) captivates me as it enables machines to understand and communicate with humans in a more natural and fluid manner.
+---
 
-## Favorite project : 
+## About Me
 
-- [Tower Defense](https://github.com/Zekhayoub/TowerDefense): Creation of a video game
+I'm **Ayoub Zekhnini**, an Engineering student at **ECAM Brussels** (Master in Computer Science, specialisation in Data Science). My work sits at the intersection of data science and software engineering — I build data pipelines, predictive models, and high-performance tools using Python and Rust.
 
-## About me :
+I'm currently seeking a **9-month full-time internship + thesis** (from September 2026) in Data Science or Quantitative Analysis.
 
-- 🔭 I am currently looking for an internship in artificial intelligence to apply my knowledge and gain hands-on experience in this exciting field.
-- 👯 I’m looking to collaborate on innovative AI projects that push the boundaries of what's possible and create solutions that can make a real impact on society.
-- 🤝 I’m looking for help with honing my skills in natural language processing and deep learning techniques, as I believe in the power of community and learning from others.
-- 🌱 I’m currently learning the latest advancements in neural network architectures, reinforcement learning, and the ethical considerations surrounding AI technology.
+📍 Brussels, Belgium
+📫 ayoubzekhnini2003@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoub-zekhnini-862025287)
 
-## Languages and Tools :
+---
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Featured Projects
 
+### Quantitative Finance
 
+- **[Crypto Volatility Analyzer](https://github.com/Zekhayoub/crypto-volatility-analyzer)** — Quantitative monitoring tool that ingests multi-venue crypto data (Binance + Hyperliquid), detects volatility regimes and simulates arbitrage strategies. Python/Rust (PyO3)/Polars.
 
+- **[Credit Spread Monitor](https://github.com/Zekhayoub/credit-spread-monitor)** — Automated monitoring pipeline that tracks corporate bond spreads, detects regime changes and generates stress testing Excel reports. Python/FRED API.
 
+### Data Science & AI
+
+- **[MindCare Agent](https://github.com/Zekhayoub/mindcare-agent)** — Conversational AI agent for emotional support that intelligently routes between a local classifier and a cloud LLM, reducing API calls by ~80%. Python/LangChain/FAISS.
+
+- **[Ecamania Esports Analytics](https://github.com/Zekhayoub/ecamania-lol-prediction)** — Predictive ML pipeline that estimates win probability for professional esport players and identifies key performance factors per role via SHAP. Python.
+
+### Systems & Software Engineering
+
+- **[GPU Cloth Simulation](https://github.com/Zekhayoub/gpu-cloth-simulation)** — Real-time physics simulation of cloth, fully computed on GPU via Compute Shaders. Rust/wgpu/WGSL.
+
+- **[TCLab Control Systems](https://github.com/Zekhayoub/tclab-control)** — Discrete PID controller with feedforward compensation, deployed and validated on physical Arduino hardware. Python/SciPy.
+
+- **[Human Defense](https://github.com/Zekhayoub/TowerDefense)** — Tower Defense game built from scratch with full OOP architecture (9 turret types, 8 enemy types, 9 maps). Java/JavaFX.
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zekhayoub&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer" width="100%"/>
+
+</div>

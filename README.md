@@ -23,7 +23,7 @@ Each block is designed to evolve: as I learn new techniques, they plug into the 
 
 ### Data Science & Analytics
 
-- **[Energy Market Monitor](https://github.com/Zekhayoub/energy-market-monitor)** — Modular pipeline that helps industrials optimize electricity procurement by detecting market regimes (HMM), identifying price anomalies (Isolation Forest), predicting price spikes (XGBoost), and explaining the drivers behind each state (SHAP). Built on European ENTSO-E data. Python · scikit-learn · hmmlearn · XGBoost · SHAP.
+- **[Energy Market Analyzer](https://github.com/Zekhayoub/energy-market-analyzer)** — Modular pipeline that helps industrials optimize electricity procurement by detecting market regimes (HMM), identifying price anomalies (Isolation Forest), predicting price spikes (XGBoost), and explaining the drivers behind each state (SHAP). Built on European ENTSO-E data. Python · scikit-learn · hmmlearn · XGBoost · SHAP.
 
 - **[Crypto Volatility Analyzer](https://github.com/Zekhayoub/crypto-volatility-analyzer)** — Market regime detection and funding rate arbitrage for digital assets. HMM identifies 3 market states (risk-on, risk-off, crisis) while a backtest simulates realistic PnL with execution costs. Python · Rust (PyO3) · Polars.
 

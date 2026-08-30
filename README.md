@@ -8,7 +8,6 @@ Data Scientist with a software engineering foundation. I build modular ML pipeli
 
 Currently completing my M.Sc. in Computer Science (Data Science) at ECAM Brussels.
 
-📍 Brussels, Belgium · 📫 ayoubzekhnini2003@gmail.com 
 ---
 
 ## Approach
